@@ -1,0 +1,30 @@
+.ac_results {
+	padding: 0px;
+	border-radius: 10px;
+	border: 1px solid WindowFrame;
+	background-color: Window;
+	overflow: hidden;
+}
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.ac_results li {
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	font-size: 15px;
+	overflow: hidden;
+}
+.ac_loading {
+	background: url("https://search0.web.fc2.com/images/loading.svg") right center no-repeat;
+}
+.ac_over {
+	background-color: Highlight;
+	color: HighlightText;
+}
