@@ -1,5 +1,4 @@
 # 概要
-さがしマートのGithubです。ここで何をするかって？
-まだ決めてない☆
+さがしマート公式のGithubです。
 
-(c) 2024 Sagashi Mart.
+© 2022-2025 Sagashi Mart. All Rights Reserved.
