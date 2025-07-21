@@ -1,6 +1,8 @@
 # おいしーかもー（？？？）
-さがしマート公式のGitHubプロフィールです。
+ゆーのGitHubプロフィールです。
 なんか所々ふざけてますがご容赦を
+<br>
+そしてアカウント名がsagashi0120だし
 
 ## 開発状況
 - [x] [BlitZlog](https://github.com/Sagashi-Mart/BlitZlog/)
@@ -13,10 +15,9 @@
 <br>**廃止済み**、どうしましょうか←は？
 
 # 連絡先など
-無理()
+[Gmail](mailto:yugabrast@gmail.com)
 
 # その他
-© 2022-2025 Sagashi Mart. All rights reserved.<br>
 © 2025 yu-.<br>
 <br>
 [Milthm Wiki](https://wikiwiki.jp/milthm/)の[Discordサーバー](https://discord.gg/PwA2BvHGgY)管理者です。Wikiの管理者ではないので
