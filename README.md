@@ -1,3 +1,5 @@
+<img width="960" height="540" alt="GitHub Profile" src="https://github.com/user-attachments/assets/6ab954a0-dd14-4785-bd50-752d68d8fb32" />
+
 # おいしーかもー（？？？）
 ゆーのGitHubプロフィールです。
 なんか所々ふざけてますがご容赦を
