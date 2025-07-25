@@ -17,7 +17,7 @@
 <br>**廃止済み**、どうしましょうか←は？
 
 # 連絡先など
-[Gmail](mailto:yugabrast@gmail.com)
+[Gmail](mailto:sagashi0120@gmail.com)
 
 # その他
 © 2025 yu-.<br>
