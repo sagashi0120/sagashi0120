@@ -7,7 +7,7 @@
 そしてアカウント名がsagashi0120だし
 
 ## 開発状況
-- [x] [BlitZlog](https://github.com/Sagashi-Mart/BlitZlog/)
+- [x] [BlitZlog](https://github.com/@BlitZlog-Official/BlitZlog/)
 <br>３月から開始中です。現在裏でやっていますが、表面ではあまり音沙汰がないように見えると思います。
 - [ ] [Pluck CMS V5](https://github.com/sagashi0120/pluck-cms-unoffical)
 <br>５月に開発停止中
