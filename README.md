@@ -1,25 +1,27 @@
 ![GitHub Profile](https://github.com/user-attachments/assets/f5483fdb-d9f5-473e-bb2a-3f006d029894)
 
-# おいしーかもー（？？？）
-ゆーのGitHubプロフィールです。
-なんか所々ふざけてますがご容赦を
-<br>
-そしてアカウント名がsagashi0120だし
+# Hi!
+最近は「ハイウェイラジオ 情報まとめ」というプロジェクトを現在開発中だったり、なんか細々としたPHPコードをアップしたりしています。<br>
+よろしくお願いいたします。
 
-## 開発状況
-- [x] [BlitZlog](https://github.com/@BlitZlog-Official/BlitZlog/)
-<br>３月から開始中です。現在裏でやっていますが、表面ではあまり音沙汰がないように見えると思います。
-- [ ] [Pluck CMS V5](https://github.com/sagashi0120/pluck-cms-unoffical)
-<br>５月に開発停止中
-- [ ] ファイル管理
-<br>**作り直し検討中**
-- [ ] SoftUpdater
-<br>**廃止済み**、どうしましょうか←は？
+## Translator?
+はい、Milthmを翻訳している人となります。<br>
+そのほかにも、非公式のMilthmに関することなどを手伝ったりしています。
 
-# 連絡先など
-[Gmail](mailto:sagashi0120@gmail.com)
+## 書ける言語
+- HTML
+- CSS
+- JS/TS
+- Vue
+- PHP
+- Python
 
-# その他
-© 2025 yu-.<br>
-<br>
-[Milthm Wiki](https://wikiwiki.jp/milthm/)の[Discordサーバー](https://discord.gg/PwA2BvHGgY)管理者です。Wikiの管理者ではないので
+らへん。
+
+# 連絡先
+sagashi0120@gmail.com<br>
+Discord (sagashi0120)<br>
+X (hotate_hokudo)<br>
+
+# ?
+None of your business! (just kidding)
